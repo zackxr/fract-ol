@@ -6,7 +6,7 @@
 /*   By: smaksiss <smaksiss@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/07 11:23:24 by smaksiss          #+#    #+#             */
-/*   Updated: 2025/01/09 09:29:00 by smaksiss         ###   ########.fr       */
+/*   Updated: 2025/01/14 11:01:31 by smaksiss         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ int main(int ac, char **ag)
 	{
 		fractal.name = ag[1];
 		fractal_init(&fractal);
-		// fractal_render(&fractal);
+		fractal_render(&fractal);
 		mlx_loop(fractal.mlx_window);
 	}
 	else

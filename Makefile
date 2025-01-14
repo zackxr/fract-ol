@@ -1,5 +1,7 @@
 NAME = lib.a
-SRCS = fractol.c handle_error.c init.c string_utils.c \
+SRCS = fractol.c init.c string_utils.c \
+	render.c \
+	math_utils.c \
     libft/ft_atoi.c \
     libft/ft_bzero.c \
     libft/ft_calloc.c \
@@ -46,4 +48,4 @@ SRCS = fractol.c handle_error.c init.c string_utils.c \
 all: $(NAME)
 
 $(NAME): 
-	gcc test/test.c -Lmlx -lmlx -framework OpenGL -framework AppKit -o fractol
+	gcc $(SRCS) -Werror -Wextra -Werror -Lmlx -lmlx -framework OpenGL -framework AppKit -o fractal
