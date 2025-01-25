@@ -2,7 +2,8 @@
 <div align="center">
   <!-- Logo -->
   <a href="https://github.com/zackxr/fract-ol">
-    <img src="README_files/logo.png" alt="Logo" width="80" height="80">
+    <img img="![image](https://github.com/user-attachments/assets/f905076e-e645-4364-8cec-5c034b6cd75f)
+" alt="Logo" width="80" height="80">
   </a>
 
   <!-- Project Name -->
