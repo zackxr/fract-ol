@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- Logo -->
-  <a href="https://github.com/zackxr/fract-ol">
-    <img img="![image](https://github.com/user-attachments/assets/f905076e-e645-4364-8cec-5c034b6cd75f)
-" alt="Logo" width="80" height="80">
-  </a>
+<a href="https://github.com/user-attachments/assets/59b71abd-0e4e-4999-9719-fd8c1959468c">
+    <img src="https://github.com/user-attachments/assets/59b71abd-0e4e-4999-9719-fd8c1959468c" alt="Logo">
+</a>
 
   <!-- Project Name -->
   <h1>Fract-ol: A Journey into Fractals</h1>
@@ -16,13 +15,13 @@
   </p>
 
   <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/score-125%20%2F%20100-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/github/repo-size/zackxr/fract-ol?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/github/languages/count/zackxr/fract-ol?style=for-the-badge" />
-    <img src="https://img.shields.io/github/languages/top/zackxr/fract-ol?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/zackxr/fract-ol?style=for-the-badge" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/score-125%20%2F%20100-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/zackxr/fract-ol?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/languages/count/zackxr/fract-ol?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/zackxr/fract-ol?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/zackxr/fract-ol?style=for-the-badge" />
+</p>
 
   <h3>
     <a href="#-about-the-project">📜 About the Project</a>
