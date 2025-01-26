@@ -91,3 +91,24 @@ Navigate and interact with the fractals using the following controls:
 To compile the project, navigate to the project directory and run:
 ```shell
 $ make
+## 🖼️ Gallery
+
+### Mandelbrot Set
+![Mandelbrot Set](https://user-images.githubusercontent.com/.../mandelbrot.png)
+
+### Julia Set
+![Julia Set](https://user-images.githubusercontent.com/.../julia.png)
+
+### Burning Ship Fractal
+![Burning Ship Fractal](https://user-images.githubusercontent.com/.../burning_ship.png)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
