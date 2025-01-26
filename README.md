@@ -91,20 +91,21 @@ Navigate and interact with the fractals using the following controls:
 To compile the project, navigate to the project directory and run:
 ```shell
 $ make
-## 🖼️ Gallery
+```
+### 🖼️ Gallery
 
 ### Mandelbrot Set
-![Mandelbrot Set](https://user-images.githubusercontent.com/.../mandelbrot.png)
+![Mandelbrot Set](https://github.com/user-attachments/assets/59b71abd-0e4e-4999-9719-fd8c1959468c)
 
 ### Julia Set
-![Julia Set](https://user-images.githubusercontent.com/.../julia.png)
+![Julia Set](https://github.com/zackxr/fract-ol/blob/master/README_files/julia_fractal.jpg)
 
 ### Burning Ship Fractal
-![Burning Ship Fractal](https://user-images.githubusercontent.com/.../burning_ship.png)
+![Burning Ship Fractal](https://github.com/zackxr/fract-ol/blob/master/README_files/burning_ship_1.jpg)
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 1. Fork the repository.
